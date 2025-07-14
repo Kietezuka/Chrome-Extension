@@ -15,7 +15,7 @@
 
 <https://urlkeeper.netlify.app/>
 
-⚠️ his is not the Chrome Extension version.
+⚠️ This is not the Chrome Extension version.
 This demo uses a public Firebase database with no authentication.
 Anyone can view, add, or delete data. Please use it for demonstration only — do not store sensitive information.
 
@@ -90,7 +90,7 @@ Anyone can view, add, or delete data. Please use it for demonstration only — d
 
 ## 🧠 Developer Notes
 
-- All URLs are saved in localStorage under the key "myData"
+- All URLs are saved in localStorage under the key `myData`
 
 - The Chrome Tabs API is used to fetch the currently active tab’s URL
 
